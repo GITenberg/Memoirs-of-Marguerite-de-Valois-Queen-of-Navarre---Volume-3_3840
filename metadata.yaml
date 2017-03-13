@@ -1,5 +1,8 @@
 _repo: Memoirs-of-Marguerite-de-Valois-Queen-of-Navarre---Volume-3_3840
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Marguerite, Queen, consort of Henry IV, King of France
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1328
     wikipedia: http://en.wikipedia.org/wiki/Marguerite_de_Valois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3840#Memoirs-of-Marguerite-de-Valois-Queen-of-Navarre---Volume-3
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
